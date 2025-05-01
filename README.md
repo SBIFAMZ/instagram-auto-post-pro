@@ -1,5 +1,3 @@
-# instagram-auto-post-pro
-
 # Instagram Auto Poster - Instructions
 
 ## Setup Guide
@@ -31,6 +29,8 @@
    - You can adjust:
      - **API calling interval** (time between each API request)
      - **Post delay time** (delay between consecutive posts)
+    
+contact me: https://www.fiverr.com/s/38leBWY
 
 ---
 
